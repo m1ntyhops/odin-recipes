@@ -1,8 +1,9 @@
 /* styles.css */
 
+
+
 div {
     color: violet;
-    background-color: white;
 }
 
 li {
@@ -12,4 +13,13 @@ li {
 a {
     color: pink;
     background-color: black;
+}
+
+.button-link {
+    display : inline-block;
+    padding : 10px 20px;
+    background-color : black;
+    color : pink;
+    border-radius : 4px;
+    border : 2px solid pink;
 }
