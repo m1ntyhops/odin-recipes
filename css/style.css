@@ -1,0 +1,15 @@
+/* styles.css */
+
+div {
+    color: violet;
+    background-color: white;
+}
+
+li {
+    color: pink;
+}
+
+a {
+    color: pink;
+    background-color: black;
+}
